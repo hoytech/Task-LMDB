@@ -1,0 +1,5 @@
+Changes
+lib/Task/LMDB.pm
+Makefile.PL
+MANIFEST
+t/loads.t
